@@ -1,0 +1,52 @@
+body {
+  background-color: aquamarine;
+}
+
+#h1 {
+  font-family: arial;
+  width: 100vw;
+  text-align: center;
+
+}
+
+#problem {
+  font-family: comic sans ms;
+  width: 100vw;
+  text-align: center;
+}
+
+#userinput {
+  height: 3vw;
+  font-size: 2vw;
+  text-align: center;
+  font-family: comic sans ms;
+  margin-left: 35.75vw;
+}
+
+#righttext {
+  font-family: comic sans ms;
+  font-size: 2vw;
+  display: inline-block;
+  margin-left: 40vw;
+  padding-top: 3vw;
+}
+
+#right {
+  display: block;
+  margin-left: 50vw;
+  margin-top: -8vw;
+}
+
+#wrongtext {
+  font-family: comic sans ms;
+  font-size: 2vw;
+  display: inline-block;
+  padding-top: 2vw;
+  margin-left: 40vw;
+}
+
+#wrong {
+  display: block;
+  margin-left: 50vw;
+  margin-top: -7.5vw;
+}
